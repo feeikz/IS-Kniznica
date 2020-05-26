@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Rentals>
+  <freeID>6</freeID>
+  <Rent>
+    <ID>3</ID>
+    <ID_knihy>2</ID_knihy>
+    <ID_zakaznika>2</ID_zakaznika>
+  </Rent>
+  <Rent>
+    <ID>1</ID>
+    <ID_knihy>3</ID_knihy>
+    <ID_zakaznika>2</ID_zakaznika>
+  </Rent>
+  <Rent>
+    <ID>5</ID>
+    <ID_knihy>1</ID_knihy>
+    <ID_zakaznika>14</ID_zakaznika>
+  </Rent>
+</Rentals>

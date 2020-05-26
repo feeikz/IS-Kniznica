@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfRent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Rent>
+    <ID>1</ID>
+    <ID_knihy>2</ID_knihy>
+    <ID_zakaznika>2</ID_zakaznika>
+    <od_kedy>2019-12-17</od_kedy>
+    <do_kedy>2019-12-21</do_kedy>
+  </Rent>
+  <Rent>
+    <ID>2</ID>
+    <ID_knihy>1</ID_knihy>
+    <ID_zakaznika>4</ID_zakaznika>
+    <od_kedy>2019-11-12</od_kedy>
+    <do_kedy>0001-11-15</do_kedy>
+  </Rent>
+</ArrayOfRent>
